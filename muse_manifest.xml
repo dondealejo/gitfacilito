@@ -1,0 +1,126 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.gaval.com" resolutions="1x" timestamp="1535377194955">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4285542244" ref="index"/>
+    <file name="iefonts_index.css" crc="319226482" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u3121.php" crc="518478148" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="crossfit-534615.jpg" crc="509516220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="football.jpg" crc="536039916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-balon-gaval.jpg" crc="4279876050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sport-2264825.jpg" crc="4171837409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boton atras.svg" crc="369948705" ref="index"/>
+    <file name="boton atras_poster_u2176.png" crc="4268921832" ref="index"/>
+    <file name="boton siguiente.svg" crc="3882668825" ref="index"/>
+    <file name="boton siguiente_poster_u2168.png" crc="3826479222" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="brillo.svg" crc="56761278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brillo_poster_.png" crc="233030469" ref="index"/>
+    <file name="fondo parallax vectores copia.svg" crc="123770480" ref="index"/>
+    <file name="fondo parallax vectores copia_poster_u2485.png" crc="3833163365" ref="index"/>
+    <file name="computador rojo.svg" crc="4081031682" ref="index"/>
+    <file name="computador rojo_poster_u4002.png" crc="38042120" ref="index"/>
+    <file name="computador blanco.svg" crc="254740409" ref="index"/>
+    <file name="computador blanco_poster_u3962.png" crc="48373724" ref="index"/>
+    <file name="alta calidad rojo.svg" crc="4134724317" ref="index"/>
+    <file name="alta calidad rojo_poster_u3978.png" crc="3850597117" ref="index"/>
+    <file name="alta calidad blanco.svg" crc="4114074932" ref="index"/>
+    <file name="alta calidad blanco_poster_u3970.png" crc="340293580" ref="index"/>
+    <file name="tecnologia rojo.svg" crc="161950168" ref="index"/>
+    <file name="tecnologia rojo_poster_u3994.png" crc="227331776" ref="index"/>
+    <file name="tecnologia blanco.svg" crc="450922793" ref="index"/>
+    <file name="tecnologia blanco_poster_u3986.png" crc="4171607500" ref="index"/>
+    <file name="personalizado.jpg" crc="4204940739" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="combo-79.jpg" crc="3864201807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quindio.jpg" crc="372331778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="real-nariño.jpg" crc="3815565705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-08 at 164547.jpg" crc="4147159283" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icono direccion.svg" crc="196515604" ref="index"/>
+    <file name="icono direccion_poster_u3379.png" crc="107825903" ref="index"/>
+    <file name="icono gmail.svg" crc="4112148532" ref="index"/>
+    <file name="icono gmail_poster_u3393.png" crc="4005950980" ref="index"/>
+    <file name="telefono.svg" crc="481030504" ref="index"/>
+    <file name="telefono_poster_u3404.png" crc="378609147" ref="index"/>
+    <file name="filete rojo.svg" crc="375900967" ref="index"/>
+    <file name="filete rojo_poster_u3919.png" crc="3973428360" ref="index"/>
+    <file name="fondonegro.jpg" crc="494580062" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gaval logo horizontal.svg" crc="263673960" ref="index"/>
+    <file name="gaval logo horizontal_poster_u3789.png" crc="191778812" ref="index"/>
+    <file name="home.svg" crc="4105216871" ref="index"/>
+    <file name="home_poster_u3676.png" crc="227773709" ref="index"/>
+    <file name="home rojo.svg" crc="127377604" ref="index"/>
+    <file name="home rojo_poster_u3773.png" crc="4240968886" ref="index"/>
+    <file name="icono identificanos.svg" crc="3882684768" ref="index"/>
+    <file name="icono identificanos_poster_u3927.png" crc="145071708" ref="index"/>
+    <file name="identificanos rojo.svg" crc="3976924834" ref="index"/>
+    <file name="identificanos rojo_poster_u3781.png" crc="4074132043" ref="index"/>
+    <file name="icono servicios.svg" crc="3921592302" ref="index"/>
+    <file name="icono servicios_poster_u3935.png" crc="528100614" ref="index"/>
+    <file name="servicios rojo.svg" crc="4057862494" ref="index"/>
+    <file name="servicios rojo_poster_u3799.png" crc="4284235714" ref="index"/>
+    <file name="icono clientes.svg" crc="114024158" ref="index"/>
+    <file name="icono clientes_poster_u3903.png" crc="224143469" ref="index"/>
+    <file name="clientes rojo.svg" crc="463648978" ref="index"/>
+    <file name="clientes rojo_poster_u3807.png" crc="131818926" ref="index"/>
+    <file name="icono contactenos.svg" crc="528728268" ref="index"/>
+    <file name="icono contactenos_poster_u3720.png" crc="316985216" ref="index"/>
+    <file name="contactenos rojo.svg" crc="3846410296" ref="index"/>
+    <file name="contactenos rojo_poster_u3943.png" crc="355260504" ref="index"/>
+    <file name="icono productos.svg" crc="322718290" ref="index"/>
+    <file name="icono productos_poster_u3747.png" crc="4262866879" ref="index"/>
+    <file name="productos rojo.svg" crc="527725595" ref="index"/>
+    <file name="productos rojo_poster_u3823.png" crc="212459441" ref="index"/>
+    <file name="imagen futbol-u1500-fr.png" crc="278160749" ref="index"/>
+    <file name="imagen-futbol-u1500-r-fr.jpg" crc="3885714389" ref="index"/>
+    <file name="caja de luz.svg" crc="4016089979" ref="index"/>
+    <file name="caja de luz_poster_u1281.png" crc="4066317815" ref="index"/>
+    <file name="crossfit-u1554-fr.jpg" crc="189330117" ref="index"/>
+    <file name="crossfit-copia-u1554-r-fr.jpg" crc="3951595440" ref="index"/>
+    <file name="caja de luz 2.svg" crc="91515443" ref="index"/>
+    <file name="caja de luz 2_poster_u1601.png" crc="467154473" ref="index"/>
+    <file name="personal-trainer-–-que-es-habilidades-que-hace-u1618-fr.jpg" crc="525508862" ref="index"/>
+    <file name="personal-trainer-–-que-es-habilidades-que-hace-copia-u1618-r-fr.jpg" crc="349011650" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3994115848" seo="true" mt="1535377111086" redirect="true"/>
+</manifest>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.gaval.com/index.html</loc>
+    <lastmod>2018-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.gaval.com/images/crossfit-534615.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.gaval.com/images/football.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.gaval.com/images/slider-balon-gaval.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.gaval.com/images/sport-2264825.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.gaval.com/images/brillo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.gaval.com/images/combo-79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.gaval.com/images/quindio.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.gaval.com/images/real-nari%C3%B1o.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
